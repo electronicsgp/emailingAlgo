@@ -1,0 +1,14 @@
+{
+    "name": "emailing",
+    "version": "1.0.0",
+    "description": "algoent",
+    "main": "index.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "author": "Pedro Gonzalez",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
+}
